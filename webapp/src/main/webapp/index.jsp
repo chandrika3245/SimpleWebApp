@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Hi This is online shopping</h1>
+         <h1>Hi This is CICD-project</h1>
     </section>    
     <section id="about"><h1>This is the About Page</h1></section>
     <section id="product"><h1>This is the Product Web Page !!</h1></section>
